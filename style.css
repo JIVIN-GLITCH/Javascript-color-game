@@ -1,0 +1,59 @@
+body {
+	background: linear-gradient(to right, #89f7fe, #66a6ff)
+}
+
+h1 {
+	text-align: center;
+}
+
+.f {
+	margin-top: 200px;
+	display: flex;
+	justify-content: space-around;
+}
+
+input {
+	width: 200px;
+	height: 50px;
+}
+
+.container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+#color-code {
+	background-color: salmon;
+	padding: 20px;
+	text-align: center;
+	font-family: Helvetica;
+	color: white;
+	font-size: 25px;
+}
+
+
+.color-op {
+	width: 300px;
+	height: 300px;
+}
+
+#op-1 {
+	background-color: black;
+}
+
+#op-2 {
+	background-color: orange;
+}
+
+#op-3 {
+	background-color: red;
+}
+
+#op-4 {
+	background-color: white;
+}
+
+#op-5 {
+	background-color: green;
+}
